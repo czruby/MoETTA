@@ -54,3 +54,36 @@ To add a configuration, only two things need to be done:
 
 1. Add a configuration file into `config/subconfigs/`
 2. Import the added file into `config/__init__.py`
+
+## Citation
+
+```bibtex
+@inproceedings{DBLP:conf/aaai/FanJCHCJZTW26,
+  author       = {Xiao Fan and
+                  Jingyan Jiang and
+                  Zhaoru Chen and
+                  Fanding Huang and
+                  Xiao Chen and
+                  Qinting Jiang and
+                  Bowen Zhang and
+                  Xing Tang and
+                  Zhi Wang},
+  editor       = {Sven Koenig and
+                  Chad Jenkins and
+                  Matthew E. Taylor},
+  title        = {MoETTA: Test-Time Adaptation Under Mixed Distribution Shifts with
+                  MoE-LayerNorm},
+  booktitle    = {Fortieth {AAAI} Conference on Artificial Intelligence, Thirty-Eighth
+                  Conference on Innovative Applications of Artificial Intelligence,
+                  Sixteenth Symposium on Educational Advances in Artificial Intelligence,
+                  {AAAI} 2026, Singapore, January 20-27, 2026},
+  pages        = {21011--21019},
+  publisher    = {{AAAI} Press},
+  year         = {2026},
+  url          = {https://doi.org/10.1609/aaai.v40i25.39243},
+  doi          = {10.1609/AAAI.V40I25.39243},
+  timestamp    = {Fri, 27 Mar 2026 17:13:39 +0100},
+  biburl       = {https://dblp.org/rec/conf/aaai/FanJCHCJZTW26.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
